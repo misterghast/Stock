@@ -1,0 +1,9 @@
+main: "org.hypbase.stock.StockPlugin"
+version: "1.0"
+name: "Stock"
+api-version: 1.19
+commands:
+  givestock:
+    description: Gives a custom item registered with the Stock plugin.
+    usage: /givestock <player> <custom item id> <amount>
+    permission: stock.commands.givestock

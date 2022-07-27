@@ -1,0 +1,15 @@
+F:\Modding\Stock\src\main\java\org\hypbase\stock\StockPlugin.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\event\StockListener.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\event\StockRegisterEvent.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\json\StockItemModel.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\item\ModelDataRange.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\item\StockItemsRegistry.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\item\StockItem.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\commands\GiveItemCommand.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\item\ModelDataRegistry.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\item\DebugExplosionStick.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\item\StockItemUtil.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\durability\DamageListener.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\block\StockTierRegistry.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\commands\GenModelsCommand.java
+F:\Modding\Stock\src\main\java\org\hypbase\stock\item\StockCustomItem.java
